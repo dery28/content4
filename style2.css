@@ -1,0 +1,33 @@
+body {
+    background-image: url(latar.png);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+h2 {
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(224, 17, 128);
+}
+h3 {
+    text-align: center;
+}
+.gif {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    
+}
+
+.gif img {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+.teks {
+    height: 100px;
+    width: 200px;
+    margin: auto;
+    transition:all 0.5s ease-in 2s
+}
